@@ -29,3 +29,10 @@ cd DCGP
 
 # Run the program
 python DCGP_main.py
+
+## Acknowledgment and License
+
+This project is based on code from [Python-M3GP](https://github.com/jespb/Python-M3GP) by J. E. Batista.  
+
+By using this code, you are agreeing to the original product's EULA.  
+Copyright © 2019-2025 J. E. Batista.
