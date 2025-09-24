@@ -22,10 +22,10 @@ To install the required dependencies, run:
 pip install -r requirements.txt
 
 # Clone the repository
-git clone https://github.com/hsarv/DCGO.git
+git clone https://github.com/hsarv/DCGP.git
 
 # Move into the directory
-cd DCGO
+cd DCGP
 
 # Run the program
 python DCGP_main.py
