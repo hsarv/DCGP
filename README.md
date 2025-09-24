@@ -1,15 +1,12 @@
-# DCGO
-Genetic Programming based Feature extrator for classification and regression tasks:
-This repository contains code developed as part of my ongoing research.  The code is currently associated with a paper that is under review.  
+# DCGP
 
-## Usage
+**Dynamic Cooperation Genetic Programming** for feature extraction in classification tasks.  
+It can also be adapted for regression tasks with minor changes.  
 
-```bash
-# Clone the repository
-git clone (https://github.com/hsarv/DCGO.git
+This repository contains code developed as part of my ongoing research.  
+⚠️ **Note:** The associated paper is currently under review.  
+Please do not cite this code yet.
 
-# Move into the directory
-cd DCGO
 ## Installation
 
 To install the required dependencies, run:
@@ -17,8 +14,18 @@ To install the required dependencies, run:
 ```bash
 pip install -r requirements.txt
 
+## Installation
 
-# Example run (adapt for your project)
+To install the required dependencies, run:
+
+```bash
+pip install -r requirements.txt
+
+# Clone the repository
+git clone https://github.com/hsarv/DCGO.git
+
+# Move into the directory
+cd DCGO
+
+# Run the program
 python DCGP_main.py
-
-
